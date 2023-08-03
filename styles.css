@@ -1,20 +1,19 @@
 *{
     box-sizing: border-box;
-    
+    margin: 0;
+    padding: 0;
 }
 
 body{
     background-color: #eee;
-    width: 100% !important;
-    margin: 0;
+    width: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
-.container{
-    margin: 38px;
-    background-color: #fff;
-    
 
+.container{
+    background-color: #fff;
 }
+
 .header{
     display: flex;
     text-align: center;
